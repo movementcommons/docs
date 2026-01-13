@@ -3,6 +3,6 @@ title: Home
 nav_order: 1
 ---
 
-# Movement Benchmarks
+# Movement Commons
 
-Open, transparent benchmarks for movement and gait methods.
+Open Benchmarks for Movement Science and AI
